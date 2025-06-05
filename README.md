@@ -33,8 +33,11 @@ A modern, responsive cryptocurrency staking dashboard built with Next.js 15, Typ
 - **Theme**: next-themes
 - **Charts**: Custom Canvas-based mini charts
 
-## Github Link
+#Deployment URL
+https://stakent-dashboard.vercel.app/
 
+## Github Link
+https://github.com/Joshua4-0p/Stakent-Dashboard
 ## 📦 Installation
 
 ### Prerequisites
@@ -171,6 +174,8 @@ Components use Tailwind classes with CSS variables for theme consistency:
 npm run build
 # Deploy to Vercel
 \`\`\`
+#Deployment URL
+https://stakent-dashboard.vercel.app/
 
 ### Other Platforms
 The application can be deployed to any platform supporting Node.js:
